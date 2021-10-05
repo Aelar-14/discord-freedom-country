@@ -1,2 +1,2 @@
-# geekie
-geekie falso pra curioso
+# dsicord city
+site para ajudar na orientação sobre a Discord Freedom Country
